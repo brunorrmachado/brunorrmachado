@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**brunorrmachado/brunorrmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://github-stats-extended.vercel.app/api?username=brunorrmachado">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=brunorrmachado&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="left" src="https://github-stats-extended.vercel.app/api?username=brunorrmachado&theme=github_dark_dimmed" />
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=brunorrmachado">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=brunorrmachado&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=brunorrmachado&theme=github_dark_dimmed" />
+  </picture>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<a href="https://github.com/brunorrmachado/github-readme-stats">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=brunorrmachado&repo=musees-digital-catalog&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      align="center"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=brunorrmachado&repo=musees-digital-catalog&theme=github_dark_dimmed"
+    />
+  </picture>
+</a>
+
+
+
+
