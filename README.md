@@ -35,6 +35,21 @@
   </picture>
 </a>
 
+## Last Contribution
+
+<a href="https://github.com/AbelPhilippe/desafio_uniesp">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=AbelPhilippe&repo=desafio_uniesp&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AbelPhilippe&repo=desafio_uniesp&theme=github_dark_dimmed"
+    />
+  </picture>
+</a>
+
 ## Stack
 
 ### Programming Languages
@@ -92,6 +107,6 @@
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-30363D?style=for-the-badge)](https://www.linkedin.com/in/brunoramalhomachado/)
-[![Email](https://img.shields.io/badge/EMAIL-6A737D?style=for-the-badge)](mailto:brunofitals@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-484F58?style=for-the-badge)](https://github.com/brunorrmachado)
+[![Email](https://img.shields.io/badge/EMAIL-484F58?style=for-the-badge)](mailto:brunofitals@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-6A737D?style=for-the-badge)](https://github.com/brunorrmachado)
 
